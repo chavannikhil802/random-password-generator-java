@@ -3,7 +3,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-class PasswordGenerator {
+class RandomPasswordGenerator {
     public static void main(String[] args) {
 
         // CODE FOR ACCEPTING THE LENGTH OF PASSWORD
